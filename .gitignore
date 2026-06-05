@@ -1,0 +1,12 @@
+.classpath
+.DS_Store
+.project
+.settings
+.vscode
+
+
+downloadedfiles/
+reports/
+screenshots/
+target/
+test-output/
