@@ -1,6 +1,10 @@
 package pages;
 
-public class RegistrationPage 
-{
+import base.BaseClass;
+
+public class RegistrationPage extends BaseClass{
+	
+
+
 	
 }
