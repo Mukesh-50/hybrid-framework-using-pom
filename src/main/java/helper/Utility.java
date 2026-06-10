@@ -36,6 +36,7 @@ public class Utility
 		System.out.println("Biswajit test1 screenshot");
 		System.out.println("Biswajit test2 screenshot");
 		System.out.println("Biswajit test3 screenshot");
+		System.out.println("Biswajit test4 screenshot");
 		TakesScreenshot ts=(TakesScreenshot)driver;
 		
 		File src=ts.getScreenshotAs(OutputType.FILE);
