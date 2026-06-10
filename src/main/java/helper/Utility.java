@@ -32,7 +32,7 @@ public class Utility
 	
 	public static String screenshot(WebDriver driver)
 	{
-		
+		System.out.println("Test screenshot");
 		TakesScreenshot ts=(TakesScreenshot)driver;
 		
 		File src=ts.getScreenshotAs(OutputType.FILE);
