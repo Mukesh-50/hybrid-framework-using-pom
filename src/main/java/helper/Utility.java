@@ -33,6 +33,9 @@ public class Utility
 	public static String screenshot(WebDriver driver)
 	{
 		
+		System.out.println("Biswajit test1 screenshot");
+		System.out.println("Biswajit test2 screenshot");
+		System.out.println("Biswajit test3 screenshot");
 		TakesScreenshot ts=(TakesScreenshot)driver;
 		
 		File src=ts.getScreenshotAs(OutputType.FILE);
