@@ -1,4 +1,4 @@
-# Hybrid Selenium Automation Framework
+# Hybrid Selenium Automation Framework 
 
 A hybrid (Data-Driven + Page Object Model) UI test automation framework built with **Java 21**, **Selenium 4**, and **TestNG**. Test data is read from Excel, configuration is externalized to a properties file, and rich HTML reports with on-failure screenshots are generated using **ChainTest**.
 
